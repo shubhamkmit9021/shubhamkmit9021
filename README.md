@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkmit9021&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkmit9021" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkmit9021" alt="shubhamkmit9021" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<img align="right" alt="Coding" width="40%" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 - 🌱 I’m currently learning **React, Redux**
 
 - 📝 I regularly write articles on [https://medium.com/@shubhamkmit9021](https://medium.com/@shubhamkmit9021)
@@ -17,13 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@shubhamkmit9021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shubhamkmit9021" height="30" width="40" /></a>
+<a href="https://codepen.io/shubhamkmit9021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shubhamkmit9021" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham-kumar-rai-9a6905195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-rai-9a6905195/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shubhamkmit9021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shubhamkmit9021" height="30" width="40" /></a>
 <a href="https://fb.com/shubham.kumarraijamuaon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubham.kumarraijamuaon" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhamkmit9021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamkmit9021" height="30" width="40" /></a>
 <a href="https://medium.com/@shubhamkmit9021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhamkmit9021" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shubhamkmit9021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shubhamkmit9021" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shubhamkmit9021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shubhamkmit9021" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shubhamkmit9021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamkmit9021" height="30" width="40" /></a>
 </p>
 
