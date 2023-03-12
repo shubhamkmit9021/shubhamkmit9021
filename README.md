@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="100%" height="300px" src="https://user-images.githubusercontent.com/98958667/215025811-65a10f9e-cd72-4de9-b54d-d43e82b76f38.jpg">
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar Rai</h1>
-<h3 align="center">A Passionate React Native Developer</h3>
+<h3 align="center">A Passionate Android and React Native Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkmit9021&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkmit9021" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 See My Projects [Portfolio](https://shubham-portfolios.netlify.app/)
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Android and React-Native**
 
 - 📝 I regularly write articles on [Blogs](https://medium.com/@shubhamkmit9021)
 
